@@ -10,6 +10,9 @@ public class GitTestClass {
     public void test3(){
         //브랜치 #2 생성 후 dev에 머지해볼 예정
     }
+    public void test7(){
+        //브랜치 #7 생성
+
     public void test6(){
         //브랜치 #6 생성
     }
